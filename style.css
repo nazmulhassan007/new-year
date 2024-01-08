@@ -73,4 +73,21 @@ h3{
     background-size: cover;
     background-position: center;
     padding: 10px 8%;
+
+}
+.er{
+    margin-top: 14%;
+    color: #fff;
+    max-width: 620px;
+    font-weight: bold;
+}
+.jh{
+    margin-top: 50px;
+    font-weight: bold;
+}
+.gh{
+    width: 330px;
+    position: absolute;
+    bottom: 0;
+    right: 10%;
 }
