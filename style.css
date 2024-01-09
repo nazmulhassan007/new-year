@@ -105,3 +105,17 @@ h3{
     font-weight: 800;
     text-transform: capitalize;
 }
+.join{
+    width: 203px;
+    height: 54px;
+    display: inline-flex;
+    padding: 16px 32px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    background: red;
+    color: #fff;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 30px;
+}
